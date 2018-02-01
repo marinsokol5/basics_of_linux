@@ -1,0 +1,21 @@
+./lab03-3.sh
+pa ctrl + z koji ga suspendira i poašlje u pozadinu
+./lab03-3.sh & odmah background
+
+bg koji ga pokrene u pozadini
+
+./lab03-3.sh & 
+pid je ovaj drugi broj
+htop -p PID columna NI -broj je nula imaš f8 i f9 za mijenjanje
+renice -n NEKI_NICE_BROJ -p PID
+dao sam mu veći prioritet kod rezervacije CPU vremena
+
+proces je ugašen 
+poslan mu je sighup koda 1
+
+nohup ./lab03-3.sh &
+
+./lab03-3.sh &
+disown
+
+

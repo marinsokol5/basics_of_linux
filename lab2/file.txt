@@ -1,0 +1,11 @@
+Arch lInUx
+frEEbsd
+5 mAgEIA
+7.2-1511 cEntOs
+8.2 dEbIAn gnU/lInUx
+14.1 slAckwArE lInUx
+15.10 UbUntU
+17.2 lInUx mInt
+23 fEdOrA
+42.1 OpEnsUsE lEAp
+2014.12 pclInUxOs
